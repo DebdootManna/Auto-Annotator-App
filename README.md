@@ -36,7 +36,7 @@ auto_annotator/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/auto-annotator.git
+   git clone https://github.com/DebdootManna/Auto-Annotator-App.git
    cd auto-annotator
    ```
 
