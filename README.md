@@ -34,7 +34,7 @@ auto_annotator/
 ## Setup Instructions
 
 1. Clone this repository:
-  git clone https://github.com/yourusername/auto-annotator.git
+  git clone https://github.com/DebdootManna/Auto-Annotator-App.git
   cd auto-annotator
 2. Create a virtual environment and install dependencies:
   python -m venv venv
