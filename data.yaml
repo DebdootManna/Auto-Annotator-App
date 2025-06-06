@@ -1,0 +1,9 @@
+names:
+- person
+- helmet
+- no helmet
+- jumpsuit
+- no jumpsuit
+nc: 5
+train: dataset_annotated/images
+val: dataset_annotated/images
